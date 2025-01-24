@@ -1,0 +1,1 @@
+This repository contains an example of an uncommon Python bug: an unclosed parenthesis in a function definition.  The bug causes a `SyntaxError` during compilation. The solution demonstrates how to correct the error by adding the missing closing parenthesis.
